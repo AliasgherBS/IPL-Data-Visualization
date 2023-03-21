@@ -25,3 +25,6 @@ Q8) Does the calculation of performance involves single or multiple features/var
 
 
 All of the questions were answered keeping in mind the data science approach to first observe, then hypothesize, then expriement (visualization) and finally according to the results conclude on a decision.
+
+
+[Note: A pdf report is also attached which summarizes all the findings in a presentable manner, easy to undestand.]
