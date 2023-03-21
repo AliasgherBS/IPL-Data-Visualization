@@ -1,4 +1,4 @@
-#IPL-Data-Visualization
+# IPL-Data-Visualization
 
 
 This is a data science project mainly focussing on visualization of data with advanced methadologies such as Knowledge Graphs or ontologies to better understand the scope of data. The tasks involved a dataset for the IPL 2008 cricket tournament.
